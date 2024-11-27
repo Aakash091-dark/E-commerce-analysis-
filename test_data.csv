@@ -1,0 +1,51 @@
+Name,Brand,Categories,PrimaryCategories,Reviews.Date,Reviews.Text,Reviews.Title,Sentiment,Full_Review,Sentiment_Score,Sentiment_Category
+Kitchen Amazon,Amazon,Appliances,Kitchen,2024-08-10,"Not bad, not great.",Decent Quality,Neutral,"Not bad, not great. Decent Quality",0.59,Neutral
+Accessories Dell,Dell,Computers,Accessories,2024-02-08,It's fine.,It's okay,Neutral,It's fine. It's okay,0.59,Neutral
+Cleaning Sony,Sony,Appliances,Cleaning,2024-02-06,Exceeded expectations.,Highly Recommend,Positive,Exceeded expectations. Highly Recommend,0.82,Positive
+Laptops Dell,Dell,Computers,Laptops,2024-07-25,It's fine.,It's okay,Neutral,It's fine. It's okay,0.65,Neutral
+Speakers Apple,Apple,Audio,Speakers,2024-05-28,Not worth the price.,Not Impressed,Negative,Not worth the price. Not Impressed,0.1,Negative
+Laundry HP,HP,Appliances,Laundry,2024-06-01,Mediocre experience.,It's okay,Neutral,Mediocre experience. It's okay,0.65,Neutral
+Laundry Bose,Bose,Appliances,Laundry,2024-06-22,Terrible quality.,Not Impressed,Negative,Terrible quality. Not Impressed,0.14,Negative
+Earphones LG,LG,Audio,Earphones,2024-05-02,Not worth the price.,Not Impressed,Negative,Not worth the price. Not Impressed,0.25,Negative
+Microphones ASUS,ASUS,Audio,Microphones,2024-09-02,Worth every penny.,Fantastic Buy,Positive,Worth every penny. Fantastic Buy,0.96,Positive
+Gaming Dell,Dell,Computers,Gaming,2024-04-19,Not worth the price.,Terrible,Negative,Not worth the price. Terrible,0.21,Negative
+Smart Devices Bose,Bose,Electronics,Smart Devices,2024-11-25,"Not bad, not great.",Decent Quality,Neutral,"Not bad, not great. Decent Quality",0.49,Neutral
+Laundry LG,LG,Appliances,Laundry,2024-01-22,Disappointing features.,Disappointing,Negative,Disappointing features. Disappointing,0.27,Negative
+Speakers Samsung,Samsung,Audio,Speakers,2024-07-03,It's fine.,Average,Neutral,It's fine. Average,0.42,Neutral
+Cleaning Amazon,Amazon,Appliances,Cleaning,2024-05-19,Amazing quality!,Highly Recommend,Positive,Amazing quality! Highly Recommend,0.84,Positive
+Microphones HP,HP,Audio,Microphones,2024-07-14,Worth every penny.,Highly Recommend,Positive,Worth every penny. Highly Recommend,0.9,Positive
+Smart Devices Samsung,Samsung,Electronics,Smart Devices,2024-08-13,Exceeded expectations.,Highly Recommend,Positive,Exceeded expectations. Highly Recommend,0.98,Positive
+Earphones Amazon,Amazon,Audio,Earphones,2024-03-28,Terrible quality.,Disappointing,Negative,Terrible quality. Disappointing,0.28,Negative
+Beds Sony,Sony,Furniture,Beds,2024-07-02,Mediocre experience.,Average,Neutral,Mediocre experience. Average,0.6,Neutral
+Tables Bose,Bose,Furniture,Tables,2024-09-10,Mediocre experience.,Decent Quality,Neutral,Mediocre experience. Decent Quality,0.63,Neutral
+Cameras HP,HP,Electronics,Cameras,2024-05-28,Not worth the price.,Disappointing,Negative,Not worth the price. Disappointing,0.21,Negative
+Microphones Sony,Sony,Audio,Microphones,2024-10-09,Not worth the price.,Disappointing,Negative,Not worth the price. Disappointing,0.36,Negative
+Tables Dell,Dell,Furniture,Tables,2024-03-05,Not worth the price.,Disappointing,Negative,Not worth the price. Disappointing,0.08,Negative
+Accessories Samsung,Samsung,Computers,Accessories,2024-07-19,Terrible quality.,Not Impressed,Negative,Terrible quality. Not Impressed,0.18,Negative
+Cleaning Samsung,Samsung,Appliances,Cleaning,2024-05-23,Amazing quality!,Fantastic Buy,Positive,Amazing quality! Fantastic Buy,0.78,Positive
+Accessories Sony,Sony,Computers,Accessories,2024-07-22,Amazing quality!,Fantastic Buy,Positive,Amazing quality! Fantastic Buy,0.79,Positive
+Cleaning LG,LG,Appliances,Cleaning,2024-03-15,Worth every penny.,Great Product,Positive,Worth every penny. Great Product,0.83,Positive
+Accessories Apple,Apple,Computers,Accessories,2024-04-20,Exceeded expectations.,Great Product,Positive,Exceeded expectations. Great Product,0.99,Positive
+Beds Dell,Dell,Furniture,Beds,2024-01-29,Mediocre experience.,It's okay,Neutral,Mediocre experience. It's okay,0.58,Neutral
+Cameras Dell,Dell,Electronics,Cameras,2024-02-02,Mediocre experience.,It's okay,Neutral,Mediocre experience. It's okay,0.67,Neutral
+Tables Amazon,Amazon,Furniture,Tables,2024-11-10,Terrible quality.,Not Impressed,Negative,Terrible quality. Not Impressed,0.31,Negative
+Gaming Amazon,Amazon,Computers,Gaming,2024-02-25,Disappointing features.,Not Impressed,Negative,Disappointing features. Not Impressed,0.31,Negative
+Speakers HP,HP,Audio,Speakers,2024-07-03,Amazing quality!,Fantastic Buy,Positive,Amazing quality! Fantastic Buy,0.71,Positive
+Earphones Dell,Dell,Audio,Earphones,2024-06-25,Not worth the price.,Not Impressed,Negative,Not worth the price. Not Impressed,0.28,Negative
+Speakers Dell,Dell,Audio,Speakers,2024-07-02,Terrible quality.,Disappointing,Negative,Terrible quality. Disappointing,0.2,Negative
+Laundry LG,LG,Appliances,Laundry,2024-05-09,Terrible quality.,Terrible,Negative,Terrible quality. Terrible,0.34,Negative
+Gaming Samsung,Samsung,Computers,Gaming,2024-06-05,Disappointing features.,Disappointing,Negative,Disappointing features. Disappointing,0.22,Negative
+Accessories Apple,Apple,Computers,Accessories,2024-08-03,Exceeded expectations.,Great Product,Positive,Exceeded expectations. Great Product,0.92,Positive
+Earphones HP,HP,Audio,Earphones,2024-08-18,Not worth the price.,Not Impressed,Negative,Not worth the price. Not Impressed,0.02,Negative
+Gaming ASUS,ASUS,Computers,Gaming,2024-04-15,Amazing quality!,Highly Recommend,Positive,Amazing quality! Highly Recommend,0.94,Positive
+Chairs Dell,Dell,Furniture,Chairs,2024-03-26,Not worth the price.,Disappointing,Negative,Not worth the price. Disappointing,0.12,Negative
+Laundry Samsung,Samsung,Appliances,Laundry,2024-05-27,It's fine.,Average,Neutral,It's fine. Average,0.61,Neutral
+Microphones Amazon,Amazon,Audio,Microphones,2024-01-19,Not worth the price.,Not Impressed,Negative,Not worth the price. Not Impressed,0.28,Negative
+Cameras Sony,Sony,Electronics,Cameras,2024-11-08,Exceeded expectations.,Fantastic Buy,Positive,Exceeded expectations. Fantastic Buy,0.83,Positive
+Cleaning Samsung,Samsung,Appliances,Cleaning,2024-02-03,"Not bad, not great.",Average,Neutral,"Not bad, not great. Average",0.66,Neutral
+Tables Samsung,Samsung,Furniture,Tables,2024-04-08,Mediocre experience.,Decent Quality,Neutral,Mediocre experience. Decent Quality,0.51,Neutral
+Cameras Amazon,Amazon,Electronics,Cameras,2024-01-16,Worth every penny.,Highly Recommend,Positive,Worth every penny. Highly Recommend,0.98,Positive
+Laptops Dell,Dell,Computers,Laptops,2024-01-13,Not worth the price.,Disappointing,Negative,Not worth the price. Disappointing,0.13,Negative
+Smart Devices Dell,Dell,Electronics,Smart Devices,2024-10-11,Not worth the price.,Disappointing,Negative,Not worth the price. Disappointing,0.3,Negative
+Gaming Sony,Sony,Computers,Gaming,2024-08-28,"Not bad, not great.",Decent Quality,Neutral,"Not bad, not great. Decent Quality",0.6,Neutral
+Chairs Bose,Bose,Furniture,Chairs,2024-02-15,Not worth the price.,Terrible,Negative,Not worth the price. Terrible,0.37,Negative
